@@ -7,7 +7,7 @@
 <body>
 <header>
 	<h1>
-		<img src="C:\Users\SERVIDOR\Desktop\Jorge\felipe\logoSena.png" alt=""> 
+		<img src="C:\sena_1_github\logoSena.png" alt=""> 
 	</h1>
 </header>
 
