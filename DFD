@@ -1,0 +1,45 @@
+entero A
+Inicio
+escriba " Verifiando su estado de Edad "
+llamar Nueva_Linea 
+Escriba " Digite su Edad "
+lea A
+
+SI (A > 90) ENTONCES
+Escriba " Anciano"
+
+
+	SIno 
+	SI (A > 65 <=90) ENTONCES
+	Escriba "Tercera Edad"
+
+		SIno 
+		SI (A > 65 <=90) ENTONCES
+		Escriba "Adulto Mayor"
+
+			SIno 
+			SI (A > 65 <=90) ENTONCES
+			Escriba "Adulto"
+
+
+				SIno 
+				SI (A > 65 <=90) ENTONCES
+				Escriba "Joven"
+
+					SIno 
+					SI (A > 65 <=90) ENTONCES
+					Escriba "Adolescente"
+
+						SIno 
+						SI (A > 65 <=90) ENTONCES
+						Escriba "Niño"
+
+							SIno 
+							SI (A > 65 <=90) ENTONCES
+							Escriba "Bebe"
+Fin si
+Fin si
+Fin si
+Fin si
+Fin si
+fin
